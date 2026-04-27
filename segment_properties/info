@@ -1,0 +1,27 @@
+{
+  "@type": "neuroglancer_segment_properties",
+  "inline": {
+    "ids": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "properties": [
+      {
+        "id": "label",
+        "type": "label",
+        "values": [
+          "FBt1",
+          "FBt2",
+          "FBt3",
+          "FBt4",
+          "FBt5",
+          "FBt6"
+        ]
+      }
+    ]
+  }
+}
